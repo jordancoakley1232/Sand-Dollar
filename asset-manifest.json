@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Sand-Dollar/static/css/main.5f7f2a90.chunk.css",
+    "main.js": "/Sand-Dollar/static/js/main.1ac39fad.chunk.js",
+    "main.js.map": "/Sand-Dollar/static/js/main.1ac39fad.chunk.js.map",
+    "runtime-main.js": "/Sand-Dollar/static/js/runtime-main.b2ad8bd0.js",
+    "runtime-main.js.map": "/Sand-Dollar/static/js/runtime-main.b2ad8bd0.js.map",
+    "static/js/2.c6eaf0c1.chunk.js": "/Sand-Dollar/static/js/2.c6eaf0c1.chunk.js",
+    "static/js/2.c6eaf0c1.chunk.js.map": "/Sand-Dollar/static/js/2.c6eaf0c1.chunk.js.map",
+    "index.html": "/Sand-Dollar/index.html",
+    "static/css/main.5f7f2a90.chunk.css.map": "/Sand-Dollar/static/css/main.5f7f2a90.chunk.css.map",
+    "static/js/2.c6eaf0c1.chunk.js.LICENSE.txt": "/Sand-Dollar/static/js/2.c6eaf0c1.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/Sand-Dollar/static/media/svg-1.5f11287c.svg",
+    "static/media/svg-2.svg": "/Sand-Dollar/static/media/svg-2.ae932cd1.svg",
+    "static/media/svg-3.7bc67e7d.svg": "/Sand-Dollar/static/media/svg-3.7bc67e7d.svg",
+    "static/media/svg-4.43499acc.svg": "/Sand-Dollar/static/media/svg-4.43499acc.svg",
+    "static/media/svg-5.86a0f59e.svg": "/Sand-Dollar/static/media/svg-5.86a0f59e.svg",
+    "static/media/svg-6.svg": "/Sand-Dollar/static/media/svg-6.f26be820.svg",
+    "static/media/video.7d1ea6a9.mp4": "/Sand-Dollar/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2ad8bd0.js",
+    "static/js/2.c6eaf0c1.chunk.js",
+    "static/css/main.5f7f2a90.chunk.css",
+    "static/js/main.1ac39fad.chunk.js"
+  ]
+}
