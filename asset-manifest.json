@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sand-Dollar/static/css/main.5f7f2a90.chunk.css",
-    "main.js": "/Sand-Dollar/static/js/main.1ac39fad.chunk.js",
-    "main.js.map": "/Sand-Dollar/static/js/main.1ac39fad.chunk.js.map",
+    "main.js": "/Sand-Dollar/static/js/main.7ccad1cb.chunk.js",
+    "main.js.map": "/Sand-Dollar/static/js/main.7ccad1cb.chunk.js.map",
     "runtime-main.js": "/Sand-Dollar/static/js/runtime-main.b2ad8bd0.js",
     "runtime-main.js.map": "/Sand-Dollar/static/js/runtime-main.b2ad8bd0.js.map",
     "static/js/2.c6eaf0c1.chunk.js": "/Sand-Dollar/static/js/2.c6eaf0c1.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.b2ad8bd0.js",
     "static/js/2.c6eaf0c1.chunk.js",
     "static/css/main.5f7f2a90.chunk.css",
-    "static/js/main.1ac39fad.chunk.js"
+    "static/js/main.7ccad1cb.chunk.js"
   ]
 }
